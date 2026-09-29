@@ -1,0 +1,16 @@
+h2{ 
+    margin-left: 400px;
+    font-size: xx-large;
+}
+.form-group{
+    margin-left: 355px;
+    margin-top: 10px;
+}
+button{
+    margin-left: 425px;
+    margin-top: 10px;
+}
+body{
+    background-color: rgb(115, 114, 114);
+    font-size: large;
+}
